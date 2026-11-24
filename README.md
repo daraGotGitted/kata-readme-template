@@ -1,4 +1,4 @@
-# Kata 2 - Entrada, salida y carga de datos
+# Kata  - 
 
 ## Objetivo de la entrega
 ## Dependencias y versión de JDK
